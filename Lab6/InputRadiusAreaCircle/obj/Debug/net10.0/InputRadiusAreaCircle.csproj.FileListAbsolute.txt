@@ -1,0 +1,14 @@
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\bin\Debug\net10.0\InputRadiusAreaCircle.exe
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\bin\Debug\net10.0\InputRadiusAreaCircle.deps.json
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\bin\Debug\net10.0\InputRadiusAreaCircle.runtimeconfig.json
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\bin\Debug\net10.0\InputRadiusAreaCircle.dll
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\bin\Debug\net10.0\InputRadiusAreaCircle.pdb
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.AssemblyInfoInputs.cache
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.AssemblyInfo.cs
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.csproj.CoreCompileInputs.cache
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.dll
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\refint\InputRadiusAreaCircle.dll
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.pdb
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\InputRadiusAreaCircle.genruntimeconfig.cache
+C:\C#_Lab_Book\Lab6\InputRadiusAreaCircle\obj\Debug\net10.0\ref\InputRadiusAreaCircle.dll
