@@ -1,0 +1,14 @@
+C:\C#_Lab_Book\Lab5\ArieaCircle\bin\Debug\net10.0\ArieaCircle.exe
+C:\C#_Lab_Book\Lab5\ArieaCircle\bin\Debug\net10.0\ArieaCircle.deps.json
+C:\C#_Lab_Book\Lab5\ArieaCircle\bin\Debug\net10.0\ArieaCircle.runtimeconfig.json
+C:\C#_Lab_Book\Lab5\ArieaCircle\bin\Debug\net10.0\ArieaCircle.dll
+C:\C#_Lab_Book\Lab5\ArieaCircle\bin\Debug\net10.0\ArieaCircle.pdb
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.AssemblyInfoInputs.cache
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.AssemblyInfo.cs
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.csproj.CoreCompileInputs.cache
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.dll
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\refint\ArieaCircle.dll
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.pdb
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ArieaCircle.genruntimeconfig.cache
+C:\C#_Lab_Book\Lab5\ArieaCircle\obj\Debug\net10.0\ref\ArieaCircle.dll

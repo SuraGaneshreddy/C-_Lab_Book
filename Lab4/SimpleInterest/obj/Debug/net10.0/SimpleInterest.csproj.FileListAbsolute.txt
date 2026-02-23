@@ -1,0 +1,14 @@
+C:\C#_Lab_Book\Lab4\SimpleInterest\bin\Debug\net10.0\SimpleInterest.exe
+C:\C#_Lab_Book\Lab4\SimpleInterest\bin\Debug\net10.0\SimpleInterest.deps.json
+C:\C#_Lab_Book\Lab4\SimpleInterest\bin\Debug\net10.0\SimpleInterest.runtimeconfig.json
+C:\C#_Lab_Book\Lab4\SimpleInterest\bin\Debug\net10.0\SimpleInterest.dll
+C:\C#_Lab_Book\Lab4\SimpleInterest\bin\Debug\net10.0\SimpleInterest.pdb
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.AssemblyInfoInputs.cache
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.AssemblyInfo.cs
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.csproj.CoreCompileInputs.cache
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.dll
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\refint\SimpleInterest.dll
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.pdb
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\SimpleInterest.genruntimeconfig.cache
+C:\C#_Lab_Book\Lab4\SimpleInterest\obj\Debug\net10.0\ref\SimpleInterest.dll

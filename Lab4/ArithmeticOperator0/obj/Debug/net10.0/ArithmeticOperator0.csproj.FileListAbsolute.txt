@@ -1,0 +1,14 @@
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\bin\Debug\net10.0\ArithmeticOperator0.exe
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\bin\Debug\net10.0\ArithmeticOperator0.deps.json
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\bin\Debug\net10.0\ArithmeticOperator0.runtimeconfig.json
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\bin\Debug\net10.0\ArithmeticOperator0.dll
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\bin\Debug\net10.0\ArithmeticOperator0.pdb
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.AssemblyInfoInputs.cache
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.AssemblyInfo.cs
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.csproj.CoreCompileInputs.cache
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.dll
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\refint\ArithmeticOperator0.dll
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.pdb
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ArithmeticOperator0.genruntimeconfig.cache
+C:\C#_Lab_Book\Lab4\ArithmeticOperator0\obj\Debug\net10.0\ref\ArithmeticOperator0.dll
