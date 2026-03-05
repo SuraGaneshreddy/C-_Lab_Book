@@ -1,0 +1,14 @@
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\bin\Debug\net10.0\PositiveNagitiveNumberUsingArray.exe
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\bin\Debug\net10.0\PositiveNagitiveNumberUsingArray.deps.json
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\bin\Debug\net10.0\PositiveNagitiveNumberUsingArray.runtimeconfig.json
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\bin\Debug\net10.0\PositiveNagitiveNumberUsingArray.dll
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\bin\Debug\net10.0\PositiveNagitiveNumberUsingArray.pdb
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.AssemblyInfoInputs.cache
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.AssemblyInfo.cs
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.csproj.CoreCompileInputs.cache
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.dll
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\refint\PositiveNagitiveNumberUsingArray.dll
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.pdb
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\PositiveNagitiveNumberUsingArray.genruntimeconfig.cache
+C:\C#_Lab_Book\Lab12\PositiveNagitiveNumberUsingArray\obj\Debug\net10.0\ref\PositiveNagitiveNumberUsingArray.dll

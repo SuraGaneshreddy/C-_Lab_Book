@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PositiveNagitiveNumberUsingArray/1.0.0": {
+        "runtime": {
+          "PositiveNagitiveNumberUsingArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PositiveNagitiveNumberUsingArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
